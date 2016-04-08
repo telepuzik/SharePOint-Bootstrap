@@ -35,6 +35,8 @@
 		<asp:ContentPlaceHolder id="PlaceHolderBodyAreaClass" Visible="true" runat="server" />
 	</SharePoint:AjaxDelta>
 	<SharePoint:CssRegistration Name="Themable/corev15.css" runat="server" />
+
+    <script type="text/javascript" data-main="/_Layouts/15/SharePoint2013%20Bootstrap3/init" src="/_Layouts/15/SharePoint2013%20Bootstrap3/RequireJS.2.2.0/content/Scripts/require.js"></script>
 </head>
 <body>
   <SharePoint:ImageLink runat="server"/>
