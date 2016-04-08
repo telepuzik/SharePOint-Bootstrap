@@ -6,11 +6,11 @@ using System.Security;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SharePoint Bootstrap")]
+[assembly: AssemblyTitle("SharePoint2013 Bootstrap3")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SharePoint Bootstrap")]
+[assembly: AssemblyProduct("SharePoint2013 Bootstrap3")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -21,7 +21,7 @@ using System.Security;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("dd1330ad-ff35-4d85-ad37-8952d8faaf8b")]
+[assembly: Guid("aa39d61c-38ac-4ef1-97c2-007099edae7a")]
 
 // Version information for an assembly consists of the following four values:
 //
