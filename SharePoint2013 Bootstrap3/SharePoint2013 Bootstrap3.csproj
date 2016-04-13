@@ -95,6 +95,7 @@
     <Content Include="Layouts\SharePoint2013 Bootstrap3\bootstrap.3.3.6\content\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Layouts\SharePoint2013 Bootstrap3\bootstrap.3.3.6\content\Scripts\bootstrap.js" />
     <Content Include="Layouts\SharePoint2013 Bootstrap3\bootstrap.3.3.6\content\Scripts\bootstrap.min.js" />
+    <Content Include="Layouts\SharePoint2013 Bootstrap3\bootstrap3_reset.css" />
     <Content Include="Layouts\SharePoint2013 Bootstrap3\init.js" />
     <Content Include="Layouts\SharePoint2013 Bootstrap3\jQuery.2.2.2\Content\Scripts\jquery-2.2.2-vsdoc.js" />
     <Content Include="Layouts\SharePoint2013 Bootstrap3\jQuery.2.2.2\Content\Scripts\jquery-2.2.2.js" />
