@@ -1,13 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{057DDB5F-09B7-4B85-BF48-BFFA05319D48}"
 	ProjectSection(SolutionItems) = preProject
 		NuGet.Config = NuGet.Config
-		set_bootstrapmasterpage.ps1 = set_bootstrapmasterpage.ps1
-		set_defaultmasterpage.ps1 = set_defaultmasterpage.ps1
+		set_masterpage.ps1 = set_masterpage.ps1
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePoint2013 Bootstrap3", "SharePoint2013 Bootstrap3\SharePoint2013 Bootstrap3.csproj", "{AA39D61C-38AC-4EF1-97C2-007099EDAE7A}"
