@@ -18,6 +18,7 @@ switch ($masterPageType) {
 }
 $site.Update()
 $site.Dispose()
+
 Write-Host "master page is set"
 
 
